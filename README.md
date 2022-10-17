@@ -8,6 +8,6 @@ Overview Page
 
 
 Page2 
-![HR Page 2](https://user-images.githubusercontent.com/114568832/195912911-3a099855-e171-46d1-b465-e00204bf7d0b.png)
+![HR Page 2](https://user-images.githubusercontent.com/114568832/196124808-099fe3a0-7489-48c8-ad35-ba0123f3b080.png)
 
 The orginal csv file and clean data excel file be found in the repository including my jupyter notebook file which contains the code to clean the data.
